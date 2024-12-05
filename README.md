@@ -1,2 +1,2 @@
 # Cpp-Little-Projects
-Just some projects.
+Just some projects in C++.
