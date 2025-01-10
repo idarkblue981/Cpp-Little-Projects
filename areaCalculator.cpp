@@ -1,6 +1,6 @@
 #include <iostream>
 
-float getInput(const std::string str)
+float getInput(const std::string& str)
 {
     std::cout << "Enter " << str << ": ";
     float input{};
