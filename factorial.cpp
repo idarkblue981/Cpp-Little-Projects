@@ -20,10 +20,10 @@ int factorial(int number)
 
 int main()
 {
-    std::cout << factorial(1) << '\n';    // 1
-    std::cout << factorial(0) << '\n';    // 1
-    std::cout << factorial(-2) << '\n';    // -1
-    std::cout << factorial(4) << '\n';    // 24
-    std::cout << factorial(5) << '\n';    // 120
-    std::cout << factorial(8) << '\n';    // 40320
+    std::cout << factorial(1) << '\n';   // 1
+    std::cout << factorial(0) << '\n';   // 1
+    std::cout << factorial(-2) << '\n';  // -1
+    std::cout << factorial(4) << '\n';   // 24
+    std::cout << factorial(5) << '\n';   // 120
+    std::cout << factorial(8) << '\n';   // 40320
 }
